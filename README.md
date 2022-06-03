@@ -1,5 +1,7 @@
-# First Repository
-Lets see where this goes...
+# Hello World!
+Lets see where this goes!
+
+## A litte about me:
 
 My name is @jtketz
 I am currently interested in growing my programming skills and building on my engineering background.
